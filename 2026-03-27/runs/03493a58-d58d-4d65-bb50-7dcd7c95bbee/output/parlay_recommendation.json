@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "run_id": "03493a58-d58d-4d65-bb50-7dcd7c95bbee",
+  "data_bundle_date": "2026-03-27",
+  "beijing_game_date": "2026-03-27",
+  "summary_zh": "2026-03-27三场NBA分析：7348场小分价值明显，7349场活塞让分过浅，7350场魔术让分过深。推荐保守2串1或中风险3串1。",
+  "parlays": [
+    {
+      "label": "保守",
+      "legs": [
+        {
+          "game_id": 7348,
+          "matchup_zh": "尼克斯（客） vs 黄蜂（主）",
+          "home_team": "黄蜂",
+          "away_team": "尼克斯",
+          "pick_zh": "（客）尼克斯 vs 黄蜂（主）· 小分（225.5分）",
+          "bet_type_hint": "dxf",
+          "rationale_zh": "两队近期防守效率提升，黄蜂主场小分率61.1%联盟前列，盘口设置低于近期场均得分总和。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "尼克斯核心布伦森、唐斯出战成疑，若出战可能推高得分。"
+        },
+        {
+          "game_id": 7350,
+          "matchup_zh": "国王（客） vs 魔术（主）",
+          "home_team": "魔术",
+          "away_team": "国王",
+          "pick_zh": "（客）国王 vs 魔术（-14.5）· 让分主负（客队赢盘）",
+          "bet_type_hint": "rfsf",
+          "rationale_zh": "魔术6连败状态低迷且核心瓦格纳缺阵，让分14.5分过深；国王近期3胜2负表现回升。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "魔术主场作战可能触底反弹，国王伤病严重。"
+        }
+      ],
+      "combined_rationale_zh": "避开伤病影响最大的7349场，选择数据支持相对稳定的两场价值盘口：7348场大小分偏差明显，7350场让分过深。",
+      "max_risk_zh": "两场同时出错概率较低，但需关注尼克斯核心球员出战状态。"
+    },
+    {
+      "label": "中风险",
+      "legs": [
+        {
+          "game_id": 7348,
+          "matchup_zh": "尼克斯（客） vs 黄蜂（主）",
+          "home_team": "黄蜂",
+          "away_team": "尼克斯",
+          "pick_zh": "（客）尼克斯 vs 黄蜂（主）· 小分（225.5分）",
+          "bet_type_hint": "dxf",
+          "rationale_zh": "两队近期防守效率提升，黄蜂主场小分率61.1%联盟前列，盘口设置低于近期场均得分总和。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "尼克斯核心布伦森、唐斯出战成疑，若出战可能推高得分。"
+        },
+        {
+          "game_id": 7349,
+          "matchup_zh": "鹈鹕（客） vs 活塞（主）",
+          "home_team": "活塞",
+          "away_team": "鹈鹕",
+          "pick_zh": "（客）鹈鹕 vs 活塞（-4.5）· 让分主负（客队赢盘）",
+          "bet_type_hint": "rfsf",
+          "rationale_zh": "活塞核心坎宁安缺阵影响巨大，让分仅4.5分过浅；鹈鹕近期状态尚可且让分胜率58%。",
+          "confidence_1_to_10": 6,
+          "risk_notes_zh": "活塞主场战绩出色，替补球员可能爆发。"
+        },
+        {
+          "game_id": 7350,
+          "matchup_zh": "国王（客） vs 魔术（主）",
+          "home_team": "魔术",
+          "away_team": "国王",
+          "pick_zh": "（客）国王 vs 魔术（-14.5）· 让分主负（客队赢盘）",
+          "bet_type_hint": "rfsf",
+          "rationale_zh": "魔术6连败状态低迷且核心瓦格纳缺阵，让分14.5分过深；国王近期3胜2负表现回升。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "魔术主场作战可能触底反弹，国王伤病严重。"
+        }
+      ],
+      "combined_rationale_zh": "包含所有合格场次，利用不同维度的价值偏差：7348场大小分价值，7349场让分价值（核心缺阵），7350场深盘价值。",
+      "max_risk_zh": "三场同时出错概率增加，需特别关注7349场活塞替补表现和鹈鹕伤病状态。"
+    }
+  ],
+  "disclaimer_zh": "非投注建议；数据来自爬虫入库，与体彩官网实时数据可能存在差异，请以体彩官网为准。"
+}
