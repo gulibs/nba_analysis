@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "generated_at_utc": "2026-03-26T02:56:54.353536+00:00",
+  "target_date": "2026-03-26",
+  "game_ids_scope": [
+    7336,
+    7337,
+    7338,
+    7339,
+    7340,
+    7341,
+    7342,
+    7343,
+    7344,
+    7345,
+    7346,
+    7347
+  ],
+  "steps": [
+    {
+      "order": 0,
+      "file": "openclaw_steps/00_README.md",
+      "title": "说明与顺序"
+    },
+    {
+      "order": 1,
+      "file": "openclaw_steps/01_rules.md",
+      "title": "规则与分级"
+    },
+    {
+      "order": 2,
+      "file": "openclaw_steps/02_schedule.md",
+      "title": "赛程与完整性"
+    },
+    {
+      "order": 3,
+      "file": "openclaw_steps/03_odds_index.md",
+      "title": "盘口分级索引"
+    },
+    {
+      "order": 4,
+      "file": "openclaw_steps/04_game_7336.md",
+      "title": "单场 7336"
+    },
+    {
+      "order": 5,
+      "file": "openclaw_steps/04_game_7337.md",
+      "title": "单场 7337"
+    },
+    {
+      "order": 6,
+      "file": "openclaw_steps/04_game_7338.md",
+      "title": "单场 7338"
+    },
+    {
+      "order": 7,
+      "file": "openclaw_steps/04_game_7339.md",
+      "title": "单场 7339"
+    },
+    {
+      "order": 8,
+      "file": "openclaw_steps/04_game_7340.md",
+      "title": "单场 7340"
+    },
+    {
+      "order": 9,
+      "file": "openclaw_steps/04_game_7341.md",
+      "title": "单场 7341"
+    },
+    {
+      "order": 10,
+      "file": "openclaw_steps/04_game_7342.md",
+      "title": "单场 7342"
+    },
+    {
+      "order": 11,
+      "file": "openclaw_steps/04_game_7343.md",
+      "title": "单场 7343"
+    },
+    {
+      "order": 12,
+      "file": "openclaw_steps/04_game_7344.md",
+      "title": "单场 7344"
+    },
+    {
+      "order": 13,
+      "file": "openclaw_steps/04_game_7345.md",
+      "title": "单场 7345"
+    },
+    {
+      "order": 14,
+      "file": "openclaw_steps/04_game_7346.md",
+      "title": "单场 7346"
+    },
+    {
+      "order": 15,
+      "file": "openclaw_steps/04_game_7347.md",
+      "title": "单场 7347"
+    },
+    {
+      "order": 100,
+      "file": "openclaw_steps/05_synthesis_parlay.md",
+      "title": "串关合成"
+    },
+    {
+      "order": 101,
+      "file": "openclaw_steps/06_output_template.md",
+      "title": "输出模板"
+    }
+  ]
+}
