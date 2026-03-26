@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "status": "completed",
+  "run_id": "b7ec4cb3-009b-4b56-b224-8d19b2fc9a6b",
+  "data_bundle_date": "2026-03-26",
+  "beijing_game_date": "2026-03-26",
+  "finished_steps": ["00_README", "01_rules", "02_schedule", "03_odds_index", "04_game_7336", "04_game_7337", "05_synthesis", "06_output"],
+  "updated_at_utc": "2026-03-26T10:00:00.000000Z"
+}
