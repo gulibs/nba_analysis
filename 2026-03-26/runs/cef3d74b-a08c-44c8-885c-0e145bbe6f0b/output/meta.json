@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "status": "failed",
+  "run_id": "cef3d74b-a08c-44c8-885c-0e145bbe6f0b",
+  "data_bundle_date": "2026-03-26",
+  "beijing_game_date": "2026-03-26",
+  "finished_steps": ["00_README", "01_rules", "02_schedule", "03_odds_index"],
+  "updated_at_utc": "2026-03-26T10:30:00.000Z",
+  "failure_reason": "所有比赛状态为final（已结束），不符合分析未开赛比赛的核心原则"
+}
