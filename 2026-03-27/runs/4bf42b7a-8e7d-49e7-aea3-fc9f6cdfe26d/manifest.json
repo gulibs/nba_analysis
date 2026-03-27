@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "generated_at_utc": "2026-03-27T16:49:53.631953+00:00",
+  "target_date": "2026-03-27",
+  "game_ids_scope": [
+    7348,
+    7349,
+    7350
+  ],
+  "steps": [
+    {
+      "order": 0,
+      "file": "openclaw_steps/00_README.md",
+      "title": "说明与顺序"
+    },
+    {
+      "order": 1,
+      "file": "openclaw_steps/01_rules.md",
+      "title": "规则与分级"
+    },
+    {
+      "order": 2,
+      "file": "openclaw_steps/02_schedule.md",
+      "title": "赛程与完整性"
+    },
+    {
+      "order": 3,
+      "file": "openclaw_steps/03_odds_index.md",
+      "title": "盘口分级索引"
+    },
+    {
+      "order": 4,
+      "file": "openclaw_steps/04a_game_7348_facts.md",
+      "title": "单场7348·事实盘口·盲"
+    },
+    {
+      "order": 5,
+      "file": "openclaw_steps/04b_game_7348_form.md",
+      "title": "单场7348·走势名单"
+    },
+    {
+      "order": 6,
+      "file": "openclaw_steps/04c_game_7348_features.md",
+      "title": "单场7348·特征信号"
+    },
+    {
+      "order": 7,
+      "file": "openclaw_steps/04d_game_7348_analysis.md",
+      "title": "单场7348·先验分析"
+    },
+    {
+      "order": 8,
+      "file": "openclaw_steps/04e_game_7348_truth.md",
+      "title": "单场7348·赛果"
+    },
+    {
+      "order": 9,
+      "file": "openclaw_steps/04f_game_7348_review.md",
+      "title": "单场7348·复盘"
+    },
+    {
+      "order": 10,
+      "file": "openclaw_steps/04a_game_7349_facts.md",
+      "title": "单场7349·事实盘口·盲"
+    },
+    {
+      "order": 11,
+      "file": "openclaw_steps/04b_game_7349_form.md",
+      "title": "单场7349·走势名单"
+    },
+    {
+      "order": 12,
+      "file": "openclaw_steps/04c_game_7349_features.md",
+      "title": "单场7349·特征信号"
+    },
+    {
+      "order": 13,
+      "file": "openclaw_steps/04d_game_7349_analysis.md",
+      "title": "单场7349·先验分析"
+    },
+    {
+      "order": 14,
+      "file": "openclaw_steps/04e_game_7349_truth.md",
+      "title": "单场7349·赛果"
+    },
+    {
+      "order": 15,
+      "file": "openclaw_steps/04f_game_7349_review.md",
+      "title": "单场7349·复盘"
+    },
+    {
+      "order": 16,
+      "file": "openclaw_steps/04a_game_7350_facts.md",
+      "title": "单场7350·事实盘口·盲"
+    },
+    {
+      "order": 17,
+      "file": "openclaw_steps/04b_game_7350_form.md",
+      "title": "单场7350·走势名单"
+    },
+    {
+      "order": 18,
+      "file": "openclaw_steps/04c_game_7350_features.md",
+      "title": "单场7350·特征信号"
+    },
+    {
+      "order": 19,
+      "file": "openclaw_steps/04d_game_7350_analysis.md",
+      "title": "单场7350·先验分析"
+    },
+    {
+      "order": 20,
+      "file": "openclaw_steps/04e_game_7350_truth.md",
+      "title": "单场7350·赛果"
+    },
+    {
+      "order": 21,
+      "file": "openclaw_steps/04f_game_7350_review.md",
+      "title": "单场7350·复盘"
+    },
+    {
+      "order": 100,
+      "file": "openclaw_steps/05_synthesis_parlay.md",
+      "title": "串关合成"
+    },
+    {
+      "order": 101,
+      "file": "openclaw_steps/06_output_template.md",
+      "title": "输出模板"
+    }
+  ]
+}
