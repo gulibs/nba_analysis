@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "generated_at_utc": "2026-03-27T09:12:52.596414+00:00",
+  "target_date": "2026-03-27",
+  "game_ids_scope": [
+    7348,
+    7349,
+    7350
+  ],
+  "steps": [
+    {
+      "order": 0,
+      "file": "openclaw_steps/00_README.md",
+      "title": "说明与顺序"
+    },
+    {
+      "order": 1,
+      "file": "openclaw_steps/01_rules.md",
+      "title": "规则与分级"
+    },
+    {
+      "order": 2,
+      "file": "openclaw_steps/02_schedule.md",
+      "title": "赛程与完整性"
+    },
+    {
+      "order": 3,
+      "file": "openclaw_steps/03_odds_index.md",
+      "title": "盘口分级索引"
+    },
+    {
+      "order": 4,
+      "file": "openclaw_steps/04_game_7348.md",
+      "title": "单场 7348"
+    },
+    {
+      "order": 5,
+      "file": "openclaw_steps/04_game_7349.md",
+      "title": "单场 7349"
+    },
+    {
+      "order": 6,
+      "file": "openclaw_steps/04_game_7350.md",
+      "title": "单场 7350"
+    },
+    {
+      "order": 100,
+      "file": "openclaw_steps/05_synthesis_parlay.md",
+      "title": "串关合成"
+    },
+    {
+      "order": 101,
+      "file": "openclaw_steps/06_output_template.md",
+      "title": "输出模板"
+    }
+  ]
+}
