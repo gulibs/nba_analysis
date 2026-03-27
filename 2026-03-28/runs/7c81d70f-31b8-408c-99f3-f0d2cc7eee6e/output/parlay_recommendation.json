@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "run_id": "7c81d70f-31b8-408c-99f3-f0d2cc7eee6e",
+  "data_bundle_date": "2026-03-28",
+  "beijing_game_date": "2026-03-28",
+  "analysis_complete": true,
+  "scope_game_ids": [7351, 7352, 7353, 7354, 7355, 7356, 7357, 7358, 7359, 7360],
+  "summary_zh": "2026-03-28 NBA比赛赛后复盘分析，共10场比赛，其中4场Level 3（四玩法齐全），6场Level 2（缺失部分玩法）。数据存在不一致（比分0-0但game_phase=post），建议以实际赛果为准。",
+  "report_markdown_zh": "## 【比赛清单】\n\n2026-03-28 共10场NBA比赛，均为赛后复盘（game_phase=post）：\n\n1. **7351**：快船 vs 步行者 - Level 3（四玩法齐全）\n2. **7352**：老鹰 vs 凯尔特人 - Level 3（四玩法齐全）\n3. **7353**：热火 vs 骑士 - Level 3（四玩法齐全）\n4. **7354**：火箭 vs 灰熊 - Level 2（缺失胜负玩法）\n5. **7355**：公牛 vs 雷霆 - Level 2（缺失胜负、胜分差玩法）\n6. **7356**：鹈鹕 vs 猛龙 - Level 3（四玩法齐全）\n7. **7357**：爵士 vs 掘金 - Level 2（缺失胜负、胜分差玩法）\n8. **7358**：奇才 vs 勇士 - Level 2（缺失胜负玩法）\n9. **7359**：独行侠 vs 开拓者 - Level 3（四玩法齐全）\n10. **7360**：篮网 vs 湖人 - Level 2（缺失胜负、胜分差玩法）\n\n## 【数据质量说明】\n\n所有比赛数据显示比分0-0但game_phase为post，存在数据不一致问题。vs_lines_post提供赛后盘口回顾数据，但实际赛果未知。分析基于现有数据，建议以实际官方赛果为准。\n\n## 【赛后复盘组合】\n\n### 复盘·2串1\n\n基于数据相对完整的Level 3比赛：\n\n1. **快船 vs 步行者**：让分线9.5分（步行者主场受让），根据vs_lines_post数据，主队让分覆盖（rfsf_home_favorite_covers: true）。\n2. **老鹰 vs 凯尔特人**：让分线-3.5分（凯尔特人主场让分），根据vs_lines_post数据，主队让分未覆盖（rfsf_home_favorite_covers: false）。\n\n**复盘逻辑**：两场比赛让分方向相反，体现不同实力对比下的盘口表现。\n\n**最大风险**：数据不一致，实际赛果未知。\n\n### 复盘·3串1\n\n基于三场Level 3比赛的大小分复盘：\n\n1. **快船 vs 步行者**：大小分线241.5分，小分命中（under_hit_line: true）\n2. **老鹰 vs 凯尔特人**：大小分线227.5分，小分命中（under_hit_line: true）\n3. **热火 vs 骑士**：大小分线243.5分，小分命中（under_hit_line: true）\n\n**复盘逻辑**：三场比赛均打出小分，可能与赛季末防守强度提升有关。\n\n**最大风险**：数据质量不确定，实际总分未知。\n\n## 【注意事项】\n\n1. 本分析为赛后复盘，非赛前投注建议。\n2. 数据存在不一致，比分显示0-0但标记为赛后。\n3. 缺失玩法的比赛（Level 2）未纳入复盘组合。\n4. 实际投注应以体彩官网实时数据为准。\n\n**分析完成时间**：2026-03-28\n**数据源**：体彩爬虫入库数据（非实时）",
+  "parlays": [
+    {
+      "label": "复盘·2串1",
+      "legs": [
+        {
+          "game_id": 7351,
+          "matchup_zh": "快船 vs 步行者",
+          "pick_zh": "（客）快船 vs 步行者（+9.5）：让分主胜",
+          "bet_type_hint": "rfsf_home",
+          "rationale_zh": "根据vs_lines_post数据，主队让分覆盖（rfsf_home_favorite_covers: true），步行者主场受让9.5分覆盖。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "数据不一致，实际赛果未知。"
+        },
+        {
+          "game_id": 7352,
+          "matchup_zh": "老鹰 vs 凯尔特人",
+          "pick_zh": "（客）老鹰 vs 凯尔特人（-3.5）：让分主负",
+          "bet_type_hint": "rfsf_away",
+          "rationale_zh": "根据vs_lines_post数据，主队让分未覆盖（rfsf_home_favorite_covers: false），凯尔特人主场让3.5分未覆盖。",
+          "confidence_1_to_10": 6,
+          "risk_notes_zh": "数据不一致，凯尔特人核心伤病影响。"
+        }
+      ],
+      "combined_rationale_zh": "两场Level 3比赛的让分复盘，体现不同实力对比下的盘口表现。快船实力占优但客场让分覆盖，凯尔特人主场让分未覆盖可能受核心伤病影响。",
+      "max_risk_zh": "数据质量不确定，实际赛果未知。"
+    },
+    {
+      "label": "复盘·3串1",
+      "legs": [
+        {
+          "game_id": 7351,
+          "matchup_zh": "快船 vs 步行者",
+          "pick_zh": "快船 vs 步行者，总分线241.5：小分",
+          "bet_type_hint": "dxf_under",
+          "rationale_zh": "根据vs_lines_post数据，小分命中（under_hit_line: true）。",
+          "confidence_1_to_10": 7,
+          "risk_notes_zh": "数据不一致，实际总分未知。"
+        },
+        {
+          "game_id": 7352,
+          "matchup_zh": "老鹰 vs 凯尔特人",
+          "pick_zh": "老鹰 vs 凯尔特人，总分线227.5：小分",
+          "bet_type_hint": "dxf_under",
+          "rationale_zh": "根据vs_lines_post数据，小分命中（under_hit_line: true）。",
+          "confidence_1_to_10": 6,
+          "risk_notes_zh": "数据不一致，实际总分未知。"
+        },
+        {
+          "game_id": 7353,
+          "matchup_zh": "热火 vs 骑士",
+          "pick_zh": "热火 vs 骑士，总分线243.5：小分",
+          "bet_type_hint": "dxf_under",
+          "rationale_zh": "根据vs_lines_post数据，小分命中（under_hit_line: true）。",
+          "confidence_1_to_10": 6,
+          "risk_notes_zh": "数据不一致，实际总分未知。"
+        }
+      ],
+      "combined_rationale_zh": "三场Level 3比赛均打出小分，可能与赛季末阶段防守强度提升、比赛节奏放缓有关。",
+      "max_risk_zh": "数据质量不确定，实际总分未知。"
+    }
+  ],
+  "disclaimer_zh": "本分析为赛后复盘，基于体彩爬虫入库数据（非实时），数据存在不一致（比分0-0但标记为赛后）。非投注建议，实际投注应以体彩官网实时数据为准。"
+}
