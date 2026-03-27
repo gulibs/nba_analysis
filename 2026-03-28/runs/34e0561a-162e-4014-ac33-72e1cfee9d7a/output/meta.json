@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "status": "completed",
+  "run_id": "34e0561a-162e-4014-ac33-72e1cfee9d7a",
+  "data_bundle_date": "2026-03-28",
+  "beijing_game_date": "2026-03-28",
+  "completed_game_ids": [7351, 7352, 7353, 7354, 7355, 7356, 7357, 7358, 7359, 7360],
+  "finished_steps": [
+    "00_README",
+    "01_rules",
+    "02_schedule",
+    "03_odds_index",
+    "04d_game_7351_conclusion",
+    "04d_game_7352_conclusion",
+    "04d_game_7353_conclusion",
+    "04d_game_7354_conclusion",
+    "04d_game_7355_conclusion",
+    "04d_game_7356_conclusion",
+    "04d_game_7357_conclusion",
+    "04d_game_7358_conclusion",
+    "04d_game_7359_conclusion",
+    "04d_game_7360_conclusion",
+    "05_synthesis",
+    "06_output"
+  ],
+  "updated_at_utc": "2026-03-28T03:30:00Z"
+}
