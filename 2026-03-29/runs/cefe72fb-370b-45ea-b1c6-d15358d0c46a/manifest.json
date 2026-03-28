@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "generated_at_utc": "2026-03-28T15:40:29.794506+00:00",
+  "target_date": "2026-03-29",
+  "game_ids_scope": [
+    7361,
+    7362,
+    7363,
+    7364,
+    7365,
+    7366
+  ],
+  "steps": [
+    {
+      "order": 0,
+      "file": "openclaw_steps/00_README.md",
+      "title": "说明与顺序"
+    },
+    {
+      "order": 1,
+      "file": "openclaw_steps/01_rules.md",
+      "title": "规则与分级"
+    },
+    {
+      "order": 2,
+      "file": "openclaw_steps/02_schedule.md",
+      "title": "赛程与完整性"
+    },
+    {
+      "order": 3,
+      "file": "openclaw_steps/03_odds_index.md",
+      "title": "盘口分级索引"
+    },
+    {
+      "order": 4,
+      "file": "openclaw_steps/04a_game_7361_facts.md",
+      "title": "单场7361·事实盘口"
+    },
+    {
+      "order": 5,
+      "file": "openclaw_steps/04b_game_7361_form.md",
+      "title": "单场7361·走势名单"
+    },
+    {
+      "order": 6,
+      "file": "openclaw_steps/04c_game_7361_features.md",
+      "title": "单场7361·特征信号"
+    },
+    {
+      "order": 7,
+      "file": "openclaw_steps/04d0_game_7361_espn_verify.md",
+      "title": "单场7361·ESPN外部验证"
+    },
+    {
+      "order": 8,
+      "file": "openclaw_steps/04d_game_7361_conclusion.md",
+      "title": "单场7361·结论"
+    },
+    {
+      "order": 9,
+      "file": "openclaw_steps/04a_game_7362_facts.md",
+      "title": "单场7362·事实盘口"
+    },
+    {
+      "order": 10,
+      "file": "openclaw_steps/04b_game_7362_form.md",
+      "title": "单场7362·走势名单"
+    },
+    {
+      "order": 11,
+      "file": "openclaw_steps/04c_game_7362_features.md",
+      "title": "单场7362·特征信号"
+    },
+    {
+      "order": 12,
+      "file": "openclaw_steps/04d0_game_7362_espn_verify.md",
+      "title": "单场7362·ESPN外部验证"
+    },
+    {
+      "order": 13,
+      "file": "openclaw_steps/04d_game_7362_conclusion.md",
+      "title": "单场7362·结论"
+    },
+    {
+      "order": 14,
+      "file": "openclaw_steps/04a_game_7363_facts.md",
+      "title": "单场7363·事实盘口"
+    },
+    {
+      "order": 15,
+      "file": "openclaw_steps/04b_game_7363_form.md",
+      "title": "单场7363·走势名单"
+    },
+    {
+      "order": 16,
+      "file": "openclaw_steps/04c_game_7363_features.md",
+      "title": "单场7363·特征信号"
+    },
+    {
+      "order": 17,
+      "file": "openclaw_steps/04d0_game_7363_espn_verify.md",
+      "title": "单场7363·ESPN外部验证"
+    },
+    {
+      "order": 18,
+      "file": "openclaw_steps/04d_game_7363_conclusion.md",
+      "title": "单场7363·结论"
+    },
+    {
+      "order": 19,
+      "file": "openclaw_steps/04a_game_7364_facts.md",
+      "title": "单场7364·事实盘口"
+    },
+    {
+      "order": 20,
+      "file": "openclaw_steps/04b_game_7364_form.md",
+      "title": "单场7364·走势名单"
+    },
+    {
+      "order": 21,
+      "file": "openclaw_steps/04c_game_7364_features.md",
+      "title": "单场7364·特征信号"
+    },
+    {
+      "order": 22,
+      "file": "openclaw_steps/04d0_game_7364_espn_verify.md",
+      "title": "单场7364·ESPN外部验证"
+    },
+    {
+      "order": 23,
+      "file": "openclaw_steps/04d_game_7364_conclusion.md",
+      "title": "单场7364·结论"
+    },
+    {
+      "order": 24,
+      "file": "openclaw_steps/04a_game_7365_facts.md",
+      "title": "单场7365·事实盘口"
+    },
+    {
+      "order": 25,
+      "file": "openclaw_steps/04b_game_7365_form.md",
+      "title": "单场7365·走势名单"
+    },
+    {
+      "order": 26,
+      "file": "openclaw_steps/04c_game_7365_features.md",
+      "title": "单场7365·特征信号"
+    },
+    {
+      "order": 27,
+      "file": "openclaw_steps/04d0_game_7365_espn_verify.md",
+      "title": "单场7365·ESPN外部验证"
+    },
+    {
+      "order": 28,
+      "file": "openclaw_steps/04d_game_7365_conclusion.md",
+      "title": "单场7365·结论"
+    },
+    {
+      "order": 29,
+      "file": "openclaw_steps/04a_game_7366_facts.md",
+      "title": "单场7366·事实盘口"
+    },
+    {
+      "order": 30,
+      "file": "openclaw_steps/04b_game_7366_form.md",
+      "title": "单场7366·走势名单"
+    },
+    {
+      "order": 31,
+      "file": "openclaw_steps/04c_game_7366_features.md",
+      "title": "单场7366·特征信号"
+    },
+    {
+      "order": 32,
+      "file": "openclaw_steps/04d0_game_7366_espn_verify.md",
+      "title": "单场7366·ESPN外部验证"
+    },
+    {
+      "order": 33,
+      "file": "openclaw_steps/04d_game_7366_conclusion.md",
+      "title": "单场7366·结论"
+    },
+    {
+      "order": 100,
+      "file": "openclaw_steps/05_synthesis_parlay.md",
+      "title": "串关合成"
+    },
+    {
+      "order": 101,
+      "file": "openclaw_steps/06_output_template.md",
+      "title": "输出模板"
+    }
+  ]
+}
